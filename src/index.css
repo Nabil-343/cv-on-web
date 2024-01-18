@@ -1,0 +1,45 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: medium;
+  color: #3A3B3C;
+  margin: 0;
+  
+}
+.container {
+  border: solid 4px black ;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.row {
+ 
+}
+.row1, .row3 {
+  background-color: yellow;
+  height: 35px;
+  padding-left: 0;
+  padding-right: 0 ;
+}
+.col-3, .col-9 {
+  
+}
+h2 {
+   font-weight:bold;
+   font-size:larger;
+}
+h3 {
+  font-weight:bold;
+  font-size:medium;
+}
+
+span {
+  font-weight: bold;
+  
+}
+.col-3{
+  padding-top: 25px;
+  border-right: solid 4px yellow;
+}
+.col-9{
+  padding-top: 25px;
+  
+
+}
